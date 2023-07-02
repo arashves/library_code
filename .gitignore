@@ -1,0 +1,11 @@
+# Python
+*.pyc
+
+# Images
+*.jpg
+
+# Logs
+*.log
+
+# DB
+*.db
