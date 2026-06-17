@@ -1,11 +1,19 @@
 # Python
 *.pyc
+*.pyo
+__pycache__/
 
 # Images
 *.jpg
+*.jpeg
+*.png
+*.ico
 
 # Logs
 *.log
 
 # DB
 *.db
+
+# Env
+.env
